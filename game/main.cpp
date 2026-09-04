@@ -1,4 +1,4 @@
-#include "class.hpp"
+#include "header.hpp"
 
 int main() {
   srand(time(0));
